@@ -1,4 +1,4 @@
-### Welcome to my Devloper Account!
+### Welcome to my Developer Account!
 
 <!--
 **owendeveloper490/owendeveloper490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
